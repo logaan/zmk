@@ -1,0 +1,12 @@
+file_format: "1"
+id: blank_slate//zmk
+name: Blank Slate
+type: board
+arch: arm
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+url: https://github.com/petejohanson/blank-slate-zmk-config

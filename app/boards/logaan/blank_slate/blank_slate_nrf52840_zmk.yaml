@@ -1,0 +1,15 @@
+identifier: blank_slate/nrf52840/zmk
+name: Blank Slate
+vendor: logaan
+type: mcu
+arch: arm
+ram: 256
+flash: 1024
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - adc
+  - gpio
+  - usb_device
+  - ble

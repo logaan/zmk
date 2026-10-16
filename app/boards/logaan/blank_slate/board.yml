@@ -1,0 +1,8 @@
+board:
+  name: blank_slate
+  full_name: Blank Slate
+  vendor: logaan
+  socs:
+    - name: nrf52840
+      variants:
+        - name: zmk
